@@ -96,7 +96,7 @@ p {
   width: 50%;
   height: auto;
   margin: 20px auto;
-  border: solid black 1px
+  border: solid black 1px;
 }
 .info {
   font: bold 14px Arial;
